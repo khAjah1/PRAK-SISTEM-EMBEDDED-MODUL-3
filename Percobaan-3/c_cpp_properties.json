@@ -8,7 +8,7 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/Irsyad Khoiri/Documents/sem 4/prak embeded/MINGGU KE 3/Embedded Minggu 4/STM32_DUPLEX_KEL 4/src",
+                "C:/Users/Irsyad Khoiri/Documents/sem 4/prak embeded/MINGGU KE 3/Embedded Minggu 4/PERCOBAAN 3 ESP_MODUL UART/src",
                 "C:/Users/Irsyad Khoiri/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
                 "C:/Users/Irsyad Khoiri/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32",
                 "C:/Users/Irsyad Khoiri/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/inc",
@@ -50,7 +50,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/Irsyad Khoiri/Documents/sem 4/prak embeded/MINGGU KE 3/Embedded Minggu 4/STM32_DUPLEX_KEL 4/src",
+                    "C:/Users/Irsyad Khoiri/Documents/sem 4/prak embeded/MINGGU KE 3/Embedded Minggu 4/PERCOBAAN 3 ESP_MODUL UART/src",
                     "C:/Users/Irsyad Khoiri/.platformio/packages/framework-arduinoststm32/cores/arduino/avr",
                     "C:/Users/Irsyad Khoiri/.platformio/packages/framework-arduinoststm32/cores/arduino/stm32",
                     "C:/Users/Irsyad Khoiri/.platformio/packages/framework-arduinoststm32/libraries/SrcWrapper/inc",
